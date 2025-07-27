@@ -1,5 +1,9 @@
 # **Prediction of Crime Occurrence by Category**  
 
+![Language](https://img.shields.io/badge/language-R-blue.svg)
+![Status](https://img.shields.io/badge/status-complete-lightgrey.svg)
+![License](https://img.shields.io/badge/license-academic-green.svg)
+
 ## **Overview**  
 This project aims to predict the occurrence of crime by category in the City of Los Angeles using crime data from the LAPD and socio-economic status (SES) data from the US Census Bureau. The analysis combines supervised and unsupervised machine learning methods to identify key drivers of crime and evaluate the best-performing models for prediction.  
 
