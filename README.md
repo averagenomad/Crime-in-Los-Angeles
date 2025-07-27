@@ -17,6 +17,7 @@ The study concludes that **Random Forest** achieved the highest predictive accur
 
 ## **Repository Structure**  
 
+```
 ├── Code/
 │ ├── Neural, Ensemble, K-means.R
 │ └── Regression, Logit, RF, Corr.R
@@ -27,7 +28,7 @@ The study concludes that **Random Forest** achieved the highest predictive accur
 │
 └── Tableau/
 └── 486 Final project.twbx
-
+```
 
 - **Code/** – R scripts showing how models were trained. (Note: These scripts require data files that are not included in this repository.)  
 - **Output/** – Final deliverables: research paper and presentation.  
